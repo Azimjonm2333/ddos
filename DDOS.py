@@ -6,7 +6,7 @@ import os
 from text import *
 import webbrowser as wb
 
-wb.open("https://t.me/FroxSoft")
+wb.open("https://t.me/jenrysoft")
 
 users = [
     "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20090913 Firefox/3.5.3"
@@ -19,8 +19,8 @@ headers = {
 os.system("clear")
 
 print (banner)
-print("Channel: @FroxSoft")
-print("Developer: @Fsure123")
+print("Channel: @jenrysoft")
+print("Developer: @Azimjonm2333")
 url = input("Ссылка: ")
 threads = int(input("Потоки (~800 лучше): "))
 
